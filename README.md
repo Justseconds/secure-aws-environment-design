@@ -34,7 +34,8 @@ When those four are done, you have a "safe to keep building on" account.
 | 0 | [Overview & principles](docs/00-overview.md) | Understand the model before clicking | 5 min |
 | 1 | [Root account hardening](docs/01-root-account-hardening.md) | The #1 thing attackers target | 10 min |
 | 2 | [Billing & budgets](docs/02-billing-and-budgets.md) | Never get a surprise bill | 10 min |
-| 3 | [Organizations & accounts](docs/03-organizations-and-accounts.md) | Separate dev from production | 20 min |
+| 3 | [Account setup: read this first](docs/03-00-before-you-start.md) | The snags you'll hit, up front | 3 min |
+| 3 | [Organizations & accounts](docs/03-organizations-and-accounts.md) | Separate dev from production | 25 min |
 | 4 | [Identity Center & access](docs/04-identity-center-access.md) | Safe daily logins, no shared passwords | 20 min |
 | 5 | [Logging & monitoring](docs/05-logging-and-monitoring.md) | Know what happened, get alerted | 15 min |
 | 6 | [Baseline security services](docs/06-baseline-security-services.md) | Automated threat detection | 15 min |
